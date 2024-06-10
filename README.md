@@ -30,6 +30,9 @@ PIX is a great way to transfer money in Brazil, it comes with a great architectu
 > and send PIX transactions to the **receivers**, otherwise a manual action will be needed, defeating the purpose of
 > providing offline transactions.
 
+> [!IMPORTANT]
+> The transaction will not be offline to the **receivers**, only for the **emitter**.
+
 ## Usability
 
 <img src="./process-diagram.png">
